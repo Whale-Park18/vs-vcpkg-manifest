@@ -92,7 +92,7 @@ vcpkg integrate install
 1>  vcpkg-manifest.vcxproj -> D:\workspace\vcpkg-manifest\x64\Debug\vcpkg-manifest.exe
 ```
 
-#참고 자료
+# 참고 자료
 - [매니페스트 모드란?](https://learn.microsoft.com/ko-kr/vcpkg/concepts/manifest-mode)
 - [매니페스트 파일에서 종속성 설치](https://learn.microsoft.com/ko-kr/vcpkg/consume/manifest-mode?tabs=msbuild%2Cbuild-visual-studio)
 - [vcpkg.json 참조](https://learn.microsoft.com/ko-kr/vcpkg/reference/vcpkg-json)
