@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="vcpkg-manifest/vcpkg-manifest.vcxproj" Id="d856fcae-e590-4c29-be9a-9e7401742e96" />
+</Solution>
